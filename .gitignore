@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Idea config
+.idea
+# Maven output directory
+target
+# Spring app
+sneaker.iml
